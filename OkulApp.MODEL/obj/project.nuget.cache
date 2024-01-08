@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHQzkxG6Rg1MrZWoBaz8t9BJ8NGe06xpjjSBG+pvUxe5r7wrvy/7y77J4FWZLYpbGaVzlDEGgnvBNjM16kUiYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\altin\\Downloads\\HelloWindowsBILSube1-master\\HelloWindowsBILSube1-master\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\altin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\altin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

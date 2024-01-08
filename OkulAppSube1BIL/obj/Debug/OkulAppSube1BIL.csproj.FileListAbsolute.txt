@@ -1,0 +1,7 @@
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.csproj.AssemblyReference.cache
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.frmOgrBul.resources
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.frmOgretmenKayit.resources
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.frmOgrKayit.resources
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.Properties.Resources.resources
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.csproj.GenerateResource.cache
+C:\Users\altin\Downloads\HelloWindowsBILSube1-master\HelloWindowsBILSube1-master\OkulAppSube1BIL\OkulAppSube1BIL\obj\Debug\OkulAppSube1BIL.csproj.CoreCompileInputs.cache
